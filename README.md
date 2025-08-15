@@ -22,7 +22,7 @@
 <img src="./assets/badges/linux-svgrepo-com.svg" alt="Linux" width="30" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profRenatoOliveira1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoOliveira25&layout=compact&theme=radical)
 
 ## 📫 Contato
 <p>
