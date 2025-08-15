@@ -25,8 +25,8 @@
 
 ## 📫 Contato
 <p>
-<a href="https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/"><img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="50" /></a>
-<a href="mailto:renato.loliveira89@gmail.com"><img src="./assets/badges/gmail-svgrepo-com.svg" alt="Email" width="50" /></a>
+<a href="https://www.linkedin.com/in/renato-luis-de-oliveira-502832b7/"><img src="./assets/badges/linkedin-1-svgrepo-com.svg" alt="LinkedIn" width="30" /></a>
+<a href="mailto:renato.loliveira89@gmail.com"><img src="./assets/badges/gmail-svgrepo-com.svg" alt="Email" width="30" /></a>
 </p>
 <!--
 **renatoOliveira25/renatoOliveira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
