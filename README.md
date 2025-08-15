@@ -11,6 +11,7 @@
 <img src="./assets/badges/js-svgrepo-com.svg" alt="JavaScript" width="30" />
 <img src="./assets/badges/typescript-svgrepo-com.svg" alt="TypeScript" width="30" />
 <img src="./assets/badges/csharp-svgrepo-com.svg" alt="C#" width="30" />
+<img src="./assets/badges/python-svgrepo-com.svg" alt="Python" width="30" />
 <img src="./assets/badges/react-svgrepo-com.svg" alt="React" width="30" />
 <img src="./assets/badges/node-js-svgrepo-com.svg" alt="Node.js" width="30" />
 <img src="./assets/badges/Express.svg" alt="Express" width="30" />
