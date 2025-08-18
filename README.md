@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Renato Oliveira
 
 💻 **Profissional de Tecnologia da Informação**  
-🎓 **Formado em Ciência da Computação**  
+🎓 **Formado em Ciências da Computação**  
 🛡️ **Certificação SCFE - Sec4US Certified Forensics Expert**  
 
 ### 🛠️ Tecnologias & Ferramentas
